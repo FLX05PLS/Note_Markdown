@@ -21,4 +21,9 @@ PEF1
 
 周三上午9-10点中的课程，查找CEE PT，寻找自己以及对应老师，在日程表上看序号了解自己应该去哪一场。moodle上面找，已发送邮件。
 
+有问题可以问LCF的代表（？）
 
+
+boundary layer 边界层
+turbulence湍流
+laminar层流的

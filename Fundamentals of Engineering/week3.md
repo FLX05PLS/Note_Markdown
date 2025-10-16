@@ -51,6 +51,22 @@ Raoult's law
 >下周学
 
 LFL（Lower Flammable Limit，燃烧下限）:气体或蒸气在空气中能够被点燃并持续燃烧的最低体积分数
+LOC（极限含氧浓度）
 
 大气压101.3kpa
 1atm 约等于 730mmHg
+
+
+stoichiometric line
+flammable region
+
+
+
+## lesson3
+PFD:程序流程图
+PID:管路与仪表布置图
+
+
+
+## lesson4
+

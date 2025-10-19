@@ -37,10 +37,12 @@ batch process 批量过程
 2. unsteady state 非稳态（瞬态）：系统从一种状态变化到另外一种状态的过渡过程
 
 对一个continuous process（连续过程）来说（open）
->Differential Balance 差动平衡
+输入 − 输出 + 生成 − 消耗 = 累积
+>Differential Balance 微分衡算
+不是看整个系统，而是看系统中一个“极小部分”的平衡
 
 对一个batch process(批量过程) 来说（close）
->Integral Balance 整体平衡
-
+>Integral Balance 积分衡算
+在有限体积或整个系统上进行的整体守恒分析
 
 

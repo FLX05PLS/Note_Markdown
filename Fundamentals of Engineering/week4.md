@@ -14,3 +14,14 @@ Hazard identification 危险识别
 
 
 设计需要恰当，系统符合规格要求，组件符合工业标准产品。依照程序运行
+
+
+## lesson2
+
+BFD(block flow diagram) 方块流程图
+PFD(process flow diagram) 工艺流程图
+
+BFD和PFD的制作需要遵循相应标准
+CEEDG
+
+在所需画的设备不存在于标准中的时，允许自己设计，要求外观尽量符合实际

@@ -74,3 +74,48 @@ int main()
 <div align="center">
    <img src="../img/picture-example.jpg" alt="Building-Selected" width="55%" />
 </div>
+
+11. 公式
+$x+y=1$ //左右两边打$$
+
+$$x+y=1$$ //左右两边打$$,居中
+
+$$x^2$$ //上标用^
+
+$$x_2$$ //下标用_
+
+$$
+\frac{分子}{分母}
+$$
+
+$$
+\sqrt[开三次方]{开方}
+$$
+
+$$
+\vec a 
+$$//向量
+
+$$
+\vec{ab} 
+$$ //多个向量
+
+$$
+\lim_{n\rightarrow+\infty}\frac{1}{n}
+$$ //极限
+
+
+$$
+A=\left[\begin{matrix}
+1&2&3\\
+4&5&6\\
+7&8&9\\
+\end{matrix}\right]
+$$//矩阵
+
+
+$$
+\alpha  
+\beta 
+\pi
+$$

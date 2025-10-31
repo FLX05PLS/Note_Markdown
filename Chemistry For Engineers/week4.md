@@ -24,26 +24,46 @@ momentum 动量
 动量等于速度乘以质量，是一个矢量
 
 
-Root Mean Square Velocity 均方根速度Vrms
-Vrms=(3kT/m)^1/2
+Root Mean Square Velocity
+均方根速度V<sub>rms</sub>
 
+V<sub>rms</sub> =$\sqrt{(3kT/m)}$
 kinetic energy 动能
-
-P=1/3（nNa/v）mVrms^2
+$
+P=\frac{1}{3}\frac{nN_a}{v}m v$<sub>rms</sub>$^2
+$
 
 气体分子的平均动能
-KE=1/2(m*v^2)
+$$
+KE=\frac{1}{2}(mv^2)
+$$
 >计算每个分子的平均动能时，速度取平均速度
 
-KE=3/2(RT/Na)
-KE=3/2kT
+$$
+KE=\frac{3}{2}(RT/Na)
+$$
+$$
+KE=\frac{3}{2}kT
+$$
 
 理想气体状态方程
-PV=nRT,PV=(N/Na)RT,PV=NkT
+$
+PV=nRT
+$
+$
+PV=\frac{N}{N_a}RT
+$
+$
+PV=NkT
+$
 
 Boltzmann constant 玻耳兹曼常量
+$
 k=R/Na
+$
+$
 k=1.38*10^-23 JK^-1
+$
 
 Graham’s Law of Effusion 格雷厄姆扩散定律
 

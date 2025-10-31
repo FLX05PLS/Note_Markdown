@@ -12,5 +12,21 @@ ai在报告中的使用准则
 允许使用ai制作表格图标
 
 
+motion 运动
+surface 表面
+assume 假设
+velocity 速度
+relative 相比较
+stick 粘
 
+
+
+volumetric flow rate(V)
+>单位时间内通过某一横截面的流体体积被称为体积流量（𝑉）。对于恒定横截面积的情况
+体积流量V=v<sub>avg</sub>$A_c$
+
+
+mass flow rate(m)
+>对于不可压缩流体而言，在计算过程中，体积流量可以转换为质量流量(m)
+质量流量$m=p$v<sub>avg</sub>$A_c$
 

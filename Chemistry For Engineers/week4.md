@@ -27,7 +27,8 @@ momentum 动量
 Root Mean Square Velocity
 均方根速度V<sub>rms</sub>
 
-V<sub>rms</sub> =$\sqrt{(3kT/m)}$
+V<sub>rms</sub> =$\sqrt{\frac{3kT}{m}}$
+
 kinetic energy 动能
 $
 P=\frac{1}{3}\frac{nN_a}{v}m v$<sub>rms</sub>$^2

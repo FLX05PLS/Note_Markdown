@@ -26,3 +26,8 @@ one-component phase diagram 单组分相图
 Phase boundaries(相界)是将这些区域分隔开的线条。在任何位于界线上的点上，两种相会处于动态平衡状态共存。
 triple point (三相点)是所有三个相界线相交的地方，也是三种相共存的点
 
+
+强酸会完全dissociated解离或ionized电离
+弱酸只是部分dissociated解离或ionized电离
+
+酸的强度值 $K_a$ 衡量的是（在水溶液中）酸的强弱程度

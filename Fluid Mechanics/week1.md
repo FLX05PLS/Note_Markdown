@@ -1,3 +1,7 @@
+关键词：viscosity，vapour pressure，cavitation，Surface tension，Capillary effect
+
+
+
 fluids 流体
 shear force 剪切力
 molecules 分子
@@ -60,13 +64,13 @@ $$
 在气体中，温度升高，粘性增大（分子热运动）
 
 液体的可压缩性
-压缩系数$K=-\frac{1}{V}\frac{dV}{dp}=\frac{1}{p}\frac{d密度}{dp}$
+压缩系数$K=-\frac{1}{V}\frac{dV}{dp}=\frac{1}{p}\frac{dρ}{dp}$
 
-体积弹性模量$K=\frac{1}{K}=-V\frac{dp}{dV}=密度·\frac{dp}{d密度}$
+体积弹性模量$K=\frac{1}{K}=-V\frac{dp}{dV}=ρ·\frac{dp}{dρ}$
 
-热膨胀系数$a_v=\frac{1}{V}\frac{dV}{dT}=-\frac{1}{密度}\frac{d密度}{dT}$
+热膨胀系数$a_v=\frac{1}{V}\frac{dV}{dT}=-\frac{1}{ρ}\frac{dρ}{dT}$
 
-完全气体状态方程$\frac{P}{密度}=RT$
+完全气体状态方程$\frac{P}{ρ}=RT$
 P：气体的绝对压强
 T：热力学温度k
 R：气体常数
